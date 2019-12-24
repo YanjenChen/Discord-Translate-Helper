@@ -1,0 +1,11 @@
+{
+  "name": "discord-translate-helper",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "yanjen <yanjen.chen4453@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "google-translate": "^3.0.0"
+  }
+}
