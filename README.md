@@ -5,8 +5,9 @@
 ## Getting Started
 
 1. `yarn install`或`npm install` 安裝相依套件
-2. 修改`auth.json`填入discord bot token和google cloud platform API key.
-3. `node app.js`運行BOT.
+2. 修改`auth.example.json`填入discord bot token和google cloud platform API key.
+3. 重新命名`auth.example.json`為`auth.json`
+4. `node app.js`運行BOT.
 
 ### Google cloud platform API取得方式
 
