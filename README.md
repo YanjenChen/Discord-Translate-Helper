@@ -14,6 +14,15 @@
 1. 註冊[google cloud platform](https://cloud.google.com/?hl=zh-tw)並取得免費試用額度
 2. 參考[這篇教學](https://www.nodejsera.com/how-to-use-google-translator-with-nodejs.html)設定並取得GCP API Key (建議同時設定API Key的使用限制增加安全性)
 
+## BOT command example
+
+```
+!翻譯 今天的晚餐吃什麼
+!翻譯 zh 今日のランチは何ですか
+!翻訳 今日のランチは何ですか
+!翻訳 ja 今天的晚餐吃什麼
+```
+
 ## Authors
 
 * **sTicK_FiguRe** - *Initial work* - [YJ Chen](https://github.com/YanjenChen)

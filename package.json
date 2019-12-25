@@ -5,6 +5,7 @@
   "author": "yanjen <yanjen.chen4453@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "discord-command-parser": "https://github.com/YanjenChen/discord-command-parser.git",
     "discord.js": "^11.5.1",
     "google-translate": "^3.0.0"
   }
